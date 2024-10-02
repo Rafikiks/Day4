@@ -10,5 +10,4 @@ function fillbus(peopleAtBusStops,busSeats ){
   return - 1;
 }
 
-console.log(fillBus([1, 3, 10, 1], 12))
-3
+
